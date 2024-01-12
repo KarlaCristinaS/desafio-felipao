@@ -16,5 +16,4 @@ else if(QuantExperiencia >= 8001 && QuantExperiencia <=9000)
 else
         {nomeHeroi = "Radiante"}
 
-console.log("Nome do Heroi: " + nomeHeroi)
-console.log("Quantidade de experiência: " + QuantExperiencia)
+console.log("O Herói de nome " + nomeHeroi  + " está no nível de "+ QuantExperiencia)
